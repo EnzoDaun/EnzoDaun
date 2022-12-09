@@ -4,7 +4,7 @@
 <h4 align="center">“Knowledge is power”</h4>
   <h6 align="center"> ~ Francis Bacon</h6>
 
-<img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/78176976/206606618-4ad41bd8-1404-4b54-84ca-911fef2ff8cd.gif" />
+<img align="right" height="270px" width="420px" alt="GIF" src="https://user-images.githubusercontent.com/78176976/206606618-4ad41bd8-1404-4b54-84ca-911fef2ff8cd.gif" />
 
 - 🔭 Sempre procurando por oportunidades de aprender mais
 - 🌱 Estudando engenharia de software
