@@ -10,7 +10,7 @@
 - 🌱 Estudando engenharia de software
 - 📫 Entre em contato comigo: enzoshimadadaun@gmail.com <br>
 - 📞 Meu Discord: 𝓚𝓾𝓶𝓪 熊#1173
-- 📖 Já tive contato com Angular, typescript, CSS, SCSS, JavaScript, C#, Typescript e outros
+- 📖 Já tive contato com Angular, typescript, CSS, SCSS, JavaScript, C#, e outros
 - 💻 Estágiario na OM Sistemas desde 2020, como developer front-end
 - 💾 Formado como técnico de desenvolvimento de sistemas em 2022 na ETEC Prof. Eudécio Luiz Vicente
 - 💡 Dicas e Sugestões sempre serão bem vindas!
