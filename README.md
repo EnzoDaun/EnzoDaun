@@ -19,8 +19,8 @@
  <div>
   <a href="https://github.com/EnzoDaun">
    <p align="center">
-  <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoDaun&theme=midnight-purple&hide_langs_below=1&layout=compact" />
-  <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api?username=EnzoDaun&show_icons=true&theme=midnight-purple&line_height=31" alt="Enzo's github stats"/>
+  <img width="48%"  align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EnzoDaun&theme=midnight-purple&hide_langs_below=1&layout=compact" />
+  <img width="48%"  align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnzoDaun&show_icons=true&theme=midnight-purple&line_height=31" alt="Enzo's github stats"/>
 </p>
 </div>
 <div style="display: inline_block" align="center"><br>
