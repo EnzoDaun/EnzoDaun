@@ -7,7 +7,7 @@
 <img align="right" height="270px" width="420px" alt="GIF" src="https://user-images.githubusercontent.com/78176976/206606618-4ad41bd8-1404-4b54-84ca-911fef2ff8cd.gif" />
 
 - 🔭 Sempre procurando por oportunidades de aprender mais
-- 🌱 Estudando engenharia de software
+- 🌱 Cursando engenharia de software na Unaerp
 - 📫 Entre em contato comigo: enzoshimadadaun@gmail.com <br>
 - 📞 Meu Discord: 𝓚𝓾𝓶𝓪 熊#1173
 - 📖 Já tive contato com Angular, typescript, CSS, SCSS, JavaScript, C#, e outros
