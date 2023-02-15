@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Enzo Shimada Daun!</h1>
-<h3 align="center">18 anos - Técnico de Desenvolvimento de sistemas focado em front-end</h3>
+<h3 align="center">19 anos - Técnico de Desenvolvimento de sistemas focado em front-end</h3>
 
 <h4 align="center">“Knowledge is power”</h4>
   <h6 align="center"> ~ Francis Bacon</h6>
