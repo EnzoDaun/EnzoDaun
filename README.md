@@ -13,7 +13,9 @@
 - 📖 Já tive contato com Angular, typescript, CSS, SCSS, JavaScript, C#, e outros
 - 💾 Formado como técnico de desenvolvimento de sistemas em 2022 na ETEC Prof. Eudécio Luiz Vicente
 - 💡 Dicas e Sugestões sempre serão bem vindas!
- 
+-
+
+##
  <br>
  <div>
   <a href="https://github.com/EnzoDaun">
