@@ -9,11 +9,10 @@
 - 🔭 Sempre procurando por oportunidades de aprender mais
 - 🌱 Cursando engenharia de software na Unaerp
 - 📫 Entre em contato comigo: enzoshimadadaun@gmail.com <br>
-- 📞 Meu Discord: 𝓚𝓾𝓶𝓪 熊#1173
-- 📖 Já tive contato com Angular, typescript, CSS, SCSS, JavaScript, C#, e outros
+- 📖 Já tive contato com Angular, React, typescript, Java, JavaScript, e outros
 - 💾 Formado como técnico de desenvolvimento de sistemas em 2022 na ETEC Prof. Eudécio Luiz Vicente
 - 💡 Dicas e Sugestões sempre serão bem vindas!
--
+- 🖥️ Atualmente trabalhando como desenvolvedor FullStack na Universidade de Ribeirão Preto com Java e React
 
 ##
  <br>
@@ -28,13 +27,12 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
   <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GITHUB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
   
   ##
