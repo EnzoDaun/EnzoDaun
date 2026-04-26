@@ -12,7 +12,6 @@
 - 📖 Já tive contato com Angular, React, typescript, Java, JavaScript, e outros
 - 💾 Formado como técnico de desenvolvimento de sistemas em 2022 na ETEC Prof. Eudécio Luiz Vicente
 - 💡 Dicas e Sugestões sempre serão bem vindas!
-- 🖥️ Atualmente trabalhando como desenvolvedor FullStack na Universidade de Ribeirão Preto com Java e React
 
 ##
  <br>
